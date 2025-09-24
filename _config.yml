@@ -1,0 +1,14 @@
+title: "Sivavarthini Portfolio"
+description: "Personal Resume & Portfolio Website"
+theme: minima
+
+# Navigation menu
+header_pages:
+  - index.md
+  - about.md
+  - contact.md
+
+author:
+  name: "Sivavarthini"
+  email: "sivavarthinihema@gmail.com"
+  
